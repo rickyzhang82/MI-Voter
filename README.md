@@ -3,8 +3,8 @@ What
 
 All data source is from [the public website](https://michiganvoters.info/).
 
-- Michigan Voter Database [Entire State October.zip](http://69.64.83.144/~mi/download/20201012/Entire%20State%20October.zip)
-- Michigan Voting History Database [Entire State History October.zip](http://69.64.83.144/~mi/download/20201012/Entire%20State%20History%20October.zip)
+- Oct, 2020 Michigan Voter Database [Entire State October.zip](http://69.64.83.144/~mi/download/20201012/Entire%20State%20October.zip)
+- Oct, 2020 Michigan Voting History Database [Entire State History October.zip](http://69.64.83.144/~mi/download/20201012/Entire%20State%20History%20October.zip)
 
 The Python notebook filters out 12,530 100+ years old voters. Their voting status: 
 
